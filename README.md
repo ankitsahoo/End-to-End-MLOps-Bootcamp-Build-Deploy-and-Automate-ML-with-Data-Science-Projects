@@ -31,3 +31,6 @@ Automate ETL pipelines and ML workflows using Apache Airflow and Astro. Monitor 
 **Gen AI with AWS Cloud:** Explore Generative AI techniques and learn how to deploy these models using AWS cloud infrastructure.
 
 **Monitoring with Grafana & PostgreSQL:** Monitor the performance of your models and pipelines using Grafana dashboards connected to PostgreSQL for real-time insights.
+
+![image](https://github.com/user-attachments/assets/7370c1f4-38d4-4142-87bd-b5b9aa02484f)
+
